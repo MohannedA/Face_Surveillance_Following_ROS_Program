@@ -22,4 +22,4 @@
 
 ## Video
 
-[![Demo](https://j.gifs.com/2vzZYP.gif)](https://www.youtube.com/watch?v=mvrjb8ecock&t=17s)
+[![Demo](gif_image.gif)](https://www.youtube.com/watch?v=mvrjb8ecock&t=17s)
