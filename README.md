@@ -21,7 +21,7 @@
 * Move linearly until person is reached. 
 
 ## Video
-[Demo](https://www.youtube.com/watch?v=mvrjb8ecock&t=17s)
+[![Demo](gif_image.gif)](https://www.youtube.com/watch?v=mvrjb8ecock&t=17s)
 
 ## Authors 
 
