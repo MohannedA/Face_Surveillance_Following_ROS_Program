@@ -2,7 +2,7 @@
 
 ## Overview
 
-### This program consists of two parts:
+### This program consists of two modes:
 
 #### Face Recognition Surveillance
 
