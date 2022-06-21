@@ -52,10 +52,9 @@
 ## Video
 [![Demo](gif_image.gif)](https://www.youtube.com/watch?v=mvrjb8ecock&t=17s)
 
-## Authors 
+## Other Authors 
 
 * Abdulrhman Saad
-* Mohanned Ahmed 
 
 ## References
 [Main](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/)
